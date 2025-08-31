@@ -1,0 +1,11 @@
+// Paso 1: Importa las variables de Bootstrap para sobreescribirlas
+@import 'bootstrap/scss/functions';
+@import 'bootstrap/scss/variables';
+
+// Paso 2: Define tus propias variables para personalizar el tema
+$primary: #007bff;
+$secondary: #6c757d;
+$success: #28a745;
+
+// Paso 3: Importa el resto de Bootstrap
+@import 'bootstrap/scss/bootstrap';
