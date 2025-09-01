@@ -4,8 +4,10 @@ import App from './App.vue'
 import router from './router'
 import { createPinia } from 'pinia'
 
-// Importa tu archivo SCSS principal
-import './assets/scss/main.scss';
+// Importa Bootstrap JS si lo necesitas
+import 'bootstrap/dist/js/bootstrap.bundle.min.js'
+// Importa tus estilos Sass
+import './assets/scss/main.scss'
 
 const pinia = createPinia();
 const app = createApp(App);
