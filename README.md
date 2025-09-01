@@ -96,4 +96,4 @@ Esta es una lista de los comandos esenciales para consultar de forma rápida.
   * **`git add`**: Agrega tus archivos modificados para ser guardados.
   * **`git commit`**: Guarda tus cambios de forma permanente con un mensaje.
   * **`git push`**: Sube tus cambios al repositorio en GitHub.
-  * **`git merge`**: Combina los cambios de otra rama en tu rama actual.
+  * **`git merge`**: Combina los cambios de otra rama en tu rama actual. 
